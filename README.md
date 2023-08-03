@@ -12,8 +12,8 @@ def mandelbrot(c):
         n += 1
     return n
 ```
-Gray-scale output:
-![alt text](output-gray.png)
-
-Color output:
+Mandelbrot output:
 ![alt text](output-color.png)
+
+Additional Julia output:
+![alt text](output-julia.png)
