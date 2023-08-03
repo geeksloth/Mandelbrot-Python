@@ -13,7 +13,7 @@ def mandelbrot(c):
     return n
 ```
 Mandelbrot output:
-![alt text](output-color.png)
+![Mandelbrot](output-color.png)
 
 Additional Julia output:
-![alt text](output-julia.png)
+![Julia](output-julia.png)
